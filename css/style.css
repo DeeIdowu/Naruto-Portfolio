@@ -5,6 +5,7 @@ svg {
   left: 0;
 }
 
-header {
-  fill: #fff;
+.jumbotron {
+  height: 750px;
+  width: 100%;
 }
