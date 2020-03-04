@@ -1,3 +1,13 @@
+body {
+  width: 100%;
+}
+
+@font-face {
+  font-family: "NJ Naruto";
+  src: url("../fonts/njnaruto.ttf");
+  font-weight: bold;
+}
+
 svg {
   display: inline-block;
   position: absolute;
@@ -8,4 +18,15 @@ svg {
 .jumbotron {
   height: 750px;
   width: 100%;
+}
+
+.centered {
+  position: absolute;
+  top: 47%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  text-align: center;
+  color: #fff;
+  font-family: "NJ Naruto";
 }
