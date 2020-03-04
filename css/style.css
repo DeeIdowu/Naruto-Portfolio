@@ -36,6 +36,13 @@ svg {
   width: 100%;
   position: relative;
 }
+
+.about-me-header {
+  font-family: "NJ Naruto";
+  text-align: center;
+  font-size: 30px;
+}
+
 .orange-teal-bannerTwo {
   height: 60px;
   background-color: #ff8c00;
