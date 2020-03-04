@@ -16,7 +16,6 @@ svg {
 }
 
 .jumbotron {
-  height: 750px;
   width: 100%;
 }
 
@@ -29,4 +28,17 @@ svg {
   text-align: center;
   color: #fff;
   font-family: "NJ Naruto";
+}
+
+.orange-teal-bannerOne {
+  height: 60px;
+  background-color: #ff8c00;
+  width: 100%;
+  position: relative;
+}
+.orange-teal-bannerTwo {
+  height: 60px;
+  background-color: #ff8c00;
+  width: 100%;
+  top: -1;
 }
